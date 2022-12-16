@@ -82,6 +82,8 @@
 
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialharshgarg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/officialharshgarg/github-readme-stats)
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=officialharshgarg&&style=flat-square" align="center" />
 </div>
