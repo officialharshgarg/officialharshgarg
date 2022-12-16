@@ -78,9 +78,9 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=officialharshgarg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialharshgarg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh Garg's Github Stats">
 
-<br/>
+</br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=officialharshgarg&&style=flat-square" align="center" />
