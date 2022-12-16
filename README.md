@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: Bazzingaa!!😆
 
-- 📄 Know about my experiences [ResumeHG](http://lnkiy.in/ResumeHG)
+- 📄 Know about my experiences [ResumeHG](https://drive.google.com/file/d/1D-RgkiprspbC5QaKIt8PH1yrnzYrCJqR/view?usp=share_link)
 
 <br/>
 
