@@ -1,31 +1,12 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 49.93%;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-    <img src="https://rishavanand.github.io/static/images/greetings.gif"  style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="width:76%">
-  </div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
-### <div align="left">I'm Harsh Garg, a proficient Android App developer 👨‍💻🚀</div>
+<div align="center">
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="width: 50%" />
+</div>
+
+### <div align="center">I'm Harsh Garg, a proficient Android App developer 👨‍💻🚀</div>
 
 - 🔭 I’m currently working on Kotlin based Apps
 
