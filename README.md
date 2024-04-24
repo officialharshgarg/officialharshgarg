@@ -7,7 +7,8 @@
 <div align="center">
 </div>
 
-### <div align="center">I'm Harsh Garg, a proficient Android App developer 👨‍💻🚀</div>
+### <div align="center">I'm Harsh Garg, a proficient Android App developer 👨‍💻🚀</div><hr>
+
 
 - 🔭 I’m working on MERN Stack- MongoDB, Express.js, React.js, and Node.js
 
