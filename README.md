@@ -1,20 +1,21 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<b>"Welcome to my profile :)"</b>
+<hr>
+<img src="https://raw.githubusercontent.com/icedev528/icedev528/main/Logo.gif" align="center" style="width: 50%" />
 </div>
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="width: 50%" />
 </div>
 
 ### <div align="center">I'm Harsh Garg, a proficient Android App developer 👨‍💻🚀</div>
 
-- 🔭 I’m currently working on Kotlin based Apps
+- 🔭 I’m working on MERN Stack- MongoDB, Express.js, React.js, and Node.js
 
-- 🌱 I’m currently learning Firebase & Cloud Services
+- 🌱 Graduated with a B.Tech degree in Computer Science Engineering
 
-- ⚡ Fun fact: Bazzingaa!!😆
+- ⚡ I'm Open to Exciting Opportunities 🚀
 
-- 📄 Know about my experiences [ResumeHG](https://drive.google.com/file/d/1D-RgkiprspbC5QaKIt8PH1yrnzYrCJqR/view?usp=share_link)
+- 📄 Know about my experiences [ResumeHG](https://drive.google.com/file/d/1pGkjnOP1r5iUEjcTDbr_aUcRGFtmkSlR/view?usp=sharing)
 
 <br/>
 
